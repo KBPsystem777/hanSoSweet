@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-const logo = 'https://gitlab.com/KBPsystem/hans-so-sweet/raw/master/src/img/logo'
+const logo = 'https://scontent.fmnl7-1.fna.fbcdn.net/v/t1.0-9/44129394_244408512896552_6034732683592990720_n.jpg?_nc_cat=101&_nc_ht=scontent.fmnl7-1.fna&oh=0af2bea6272943643b0a1de3da71f881&oe=5C7834A3';
 
 
 
