@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+const logo = '/home/kbpsystem/hans/src/img/logo.jpg';
 
 class App extends Component {
   render() {
