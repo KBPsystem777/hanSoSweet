@@ -13,7 +13,7 @@
     "launch": "npm install && npm run build && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "deploy": "npm run build && cd build/ && now && now alias",
+    "deploy": "npm run build && now ./build && now alias",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
